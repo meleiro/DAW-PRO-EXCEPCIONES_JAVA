@@ -1,0 +1,2 @@
+IMPORTANTE: Error hereda de Throwable, pero normalmente NO se captura para continuar como si nada.
+Los ejemplos peligrosos vienen desactivados. Lee el código antes de quitar comentarios.

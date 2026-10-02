@@ -1,0 +1,1 @@
+Ejecuta cada clase por separado. Primero observa qué línea puede fallar y luego estudia su catch.
